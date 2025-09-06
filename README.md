@@ -6,7 +6,7 @@
 
 ### 🌟 A passionate Full Stack Developer on a coding adventure! 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+Express+Expert+%E2%9A%A1;Always+Learning+%26+Growing+%F0%9F%9A%80;Code+Optimization+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+Express+%7C+MongoDB+%E2%9A%A1;Always+Learning+%26+Growing+%F0%9F%9A%80;Code+Optimization+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
 
 </div>
 
