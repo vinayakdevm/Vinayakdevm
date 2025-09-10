@@ -103,8 +103,4 @@
 
 ### 🙏 Thanks for visiting! Let's build something amazing together!
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1reWNzM2VqYXQ0MTltcThjd2poeG9mcnZ2Z211a2JrOGRoN2tscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CY3A9zOlZR8uhFbeok/giphy.gif" width="200">
-
-**"The limit is not in the sky, the limit is in your mind!"** 
-
 </div>
