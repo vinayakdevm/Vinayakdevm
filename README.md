@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Hero Section with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vinayak%20Dev%20Mishra&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2E2EFF,50:8A2BE2,100:00E5FF&text=Vinayak%20Dev%20Mishra&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descSize=19&descAlignY=58" />
+
 
 <!-- Animated Introduction -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Vinayak+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Web+Applications+%E2%9C%A8;MERN+Stack+Specialist+%F0%9F%94%A5;Performance+%26+Optimization+Expert+%F0%9F%9A%80;Always+Learning+%26+Evolving+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -285,6 +286,6 @@ Tech Philosophy:
 <br/>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2EFF,50:8A2BE2,100:00E5FF&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+ 
 </div>
