@@ -1,27 +1,24 @@
 <div align="center">
 
-<!-- Hero Section with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2E2EFF,50:8A2BE2,100:00E5FF&text=Vinayak%20Dev%20Mishra&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descSize=19&descAlignY=58" />
+<!-- Batman Hero Section with Dark Knight Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:1a1a1a,100:333333&text=Vinayak%20Dev%20Mishra&fontSize=55&fontColor=FFD700&animation=twinkling&fontAlignY=36&desc=The%20Dark%20Knight%20of%20Code%20%7C%20Full%20Stack%20Developer&descSize=19&descAlignY=58" />
 
+<!-- Batman GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM3bW1sa2MxYWV2MG13NDFkaml4dzJva20zdTZqYjhtbmttczhoZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0NwGpoOVLTAyUJSo/giphy.gif" width="500" alt="Batman Animation"/>
 
-<!-- Animated Introduction -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Vinayak+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Web+Applications+%E2%9C%A8;MERN+Stack+Specialist+%F0%9F%94%A5;Performance+%26+Optimization+Expert+%F0%9F%9A%80;Always+Learning+%26+Evolving+%F0%9F%8C%9F" alt="Typing SVG" />
-
-<!-- Animated Developer GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600" alt="Coding Animation"/>
-<!-- Enhanced Social Badges -->
+<!-- Enhanced Social Badges with Batman Theme -->
 <p align="center">
   <a href="https://linkedin.com/in/vinayakdevm">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=1a1a1a" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/vinayak_xo_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFD700&labelColor=1a1a1a" alt="Instagram"/>
   </a>
   <a href="https://www.leetcode.com/vinayak_dev_">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=1a1a1a" alt="LeetCode"/>
   </a>
   <a href="mailto:vinayakdevmishra12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=1a1a1a" alt="Email"/>
   </a>
 </p>
 
@@ -33,39 +30,40 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- About Me Section -->
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40px" alt="Fire"> About Me
+## 🦇 The Origin Story
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Who Am I?
+### ⚡ Who Lurks in the Shadows?
 
-- 💼 Full Stack Developer  
-- 🔥 MERN Stack Specialist  
-- 📈 Passionate about **scalable systems & performance-first engineering**  
-- 💡 Obsessed with **clean architecture, optimization & smooth UI/UX**  
-- 🌍 Turning ideas into meaningful, production-ready products  
-- 🎯 Motto: **Build with purpose. Ship with passion.**  
+- 🌃 **Full Stack Vigilante** - Protecting codebases from bugs and vulnerabilities
+- 🦇 **MERN Stack Guardian** - Master of the JavaScript realm
+- 💀 **Performance Hunter** - Eliminating slow code, one optimization at a time
+- ⚔️ **Architecture Strategist** - Building fortresses of scalable systems
+- 🎯 **Mission:** Fight bad code. Deliver justice through elegant solutions.
+- 💎 **Code of Honor:** Quality over quantity. Performance over popularity.
 
-### 🌱 Currently Leveling Up In
-- System Design & Scalable Architectures  
-- Backend Performance Optimization  
-- Cloud Deployments & DevOps Fundamentals  
-- Open Source Contributions  
+### 🌙 Training in the Batcave
+- Advanced Combat with System Design Patterns
+- Weaponizing Backend Performance
+- Mastering the Cloud & DevOps Arsenal
+- Open Source League of Developers
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💼 What I Bring to the Table
+### 🛡️ The Dark Knight's Arsenal
 
-- ⚛️ **Frontend:** Interactive, responsive & animation-rich UIs  
-- 🔧 **Backend:** High-performance REST APIs, real-time features  
-- 🗄️ **Databases:** Efficient schemas, optimized queries  
-- ☁️ **Cloud:** Deployments on AWS, Firebase, Vercel  
-- 🎨 **UI/UX:** Clean interfaces with modern component design  
-- 📊 **Analytics:** Metrics, dashboards & performance tracking  
+- ⚛️ **Frontend Combat:** Reactive, responsive interfaces that strike fear
+- 🗡️ **Backend Warfare:** High-performance APIs built for battle
+- 🔐 **Database Fortress:** Optimized, secure data strongholds
+- ☁️ **Cloud Command Center:** AWS, Firebase, Vercel deployments
+- 🎨 **UI/UX Gadgets:** Sleek, intuitive bat-interfaces
+- 📊 **Bat-Computer Analytics:** Real-time monitoring & insights
+
 
 </td>
 </tr>
@@ -75,47 +73,47 @@
 
 <div align="center">
 
-### 🎯 Expertise Areas
+### 🎯 Bat-Signal Specialties
 
-<img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-Proficient-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/System_Design-Learning-FF6B6B?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Dark_Knight-FFD700?style=for-the-badge&logo=react&logoColor=FFD700&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Node.js-Gotham_Guardian-FFD700?style=for-the-badge&logo=node.js&logoColor=FFD700&labelColor=000000"/>
+<img src="https://img.shields.io/badge/TypeScript-Bat_Tech-FFD700?style=for-the-badge&logo=typescript&logoColor=FFD700&labelColor=000000"/>
+<img src="https://img.shields.io/badge/MongoDB-Batcave_DB-FFD700?style=for-the-badge&logo=mongodb&logoColor=FFD700&labelColor=000000"/>
+<img src="https://img.shields.io/badge/REST_APIs-Bat_Signal-FFD700?style=for-the-badge&logo=postman&logoColor=FFD700&labelColor=000000"/>
+<img src="https://img.shields.io/badge/System_Design-Wayne_Tech-FFD700?style=for-the-badge&logo=google-cloud&logoColor=FFD700&labelColor=000000"/>
 
 </div>
 
 <br/>
 
-
 <!-- Tech Stack Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40px"> Tech Stack & Tools
+## 🛠️ The Utility Belt - Tech Arsenal
 
 <div align="center">
 
-### 🎨 Frontend Development
+### 🎨 Frontend Gadgets
 <p>
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vite&theme=dark" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend Weapons
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,fastapi&theme=dark" />
 </p>
 
-### 🗄️ Databases & Storage
+### 🗄️ Data Vaults
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
 </p>
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ Bat-Computer Systems
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,vercel,netlify,postman,figma,vscode&theme=dark" />
 </p>
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM3bW1sa2MxYWV2MG13NDFkaml4dzJva20zdTZqYjhtbmttczhoZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t6lcIESHMdGQ5J7NC3/giphy.gif" width="200" alt="Batman Gear"/>
 
 </div>
 
@@ -124,12 +122,12 @@
 <!-- GitHub Trophies -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40px"> GitHub Trophies
+## 🏆 Hall of Justice - Achievements
 
 <div align="center">
 
 <img 
-  src="https://github-profile-trophy.vercel.app/?username=vinayakdevm&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" 
+  src="https://github-profile-trophy.vercel.app/?username=vinayakdevm&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&row=2&column=4" 
   alt="GitHub Trophies"
 />
 
@@ -137,21 +135,20 @@
 
 <br/>
 
-
 <!-- GitHub Stats Section -->
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-15c3a0f0-c5de-4b6a-9e64-926e575999e3.png" width="40px"> GitHub Analytics
+## 📊 Bat-Computer Analytics
 
 <div align="center">
 
 <!-- Main GitHub readme-stats card -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=vinayakdevm&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"
+  src="https://github-readme-stats.vercel.app/api?username=vinayakdevm&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=333333"
   width="48%"
   alt="Vinayak's GitHub Stats" />
 
 <!-- Streak stats -->
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakdevm&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakdevm&theme=dark&hide_border=true&background=000000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFFFFF&border=333333"
   width="48%"
   alt="Vinayak's GitHub Streak" />
 
@@ -161,13 +158,13 @@
 
 <!-- Top languages -->
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakdevm&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakdevm&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&langs_count=10&border_color=333333"
   width="48%"
   alt="Top Languages" />
 
 <!-- Contribution / activity graph -->
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakdevm&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakdevm&theme=github-dark&hide_border=true&area=true&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF"
   width="48%"
   alt="Contribution Graph" />
 
@@ -176,116 +173,108 @@
 <!-- Current Status -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40px"> What I'm Up To
+## 🌃 Current Mission Status
 
 <div align="center">
 
 ```yaml
-Current Focus:
-  - Building: Production-ready Full Stack Applications
-  - Learning: Advanced System Design & Backend Architecture
-  - Optimizing: Code Performance & Database Queries
-  - Exploring: Microservices & Cloud Native Technologies
-  - Contributing: Open Source Projects & Dev Community
+🦇 The Dark Knight's Current Operations:
 
-Tech Philosophy:
-  - Write clean, maintainable code
-  - Performance matters
-  - User experience first
-  - Never stop learning
+Active Missions:
+  - Patrolling: Production-Ready Full Stack Applications
+  - Training: Advanced System Design & Backend Architecture
+  - Optimizing: Performance & Database Query Efficiency
+  - Investigating: Microservices & Cloud Native Tech
+  - Protecting: Open Source Projects & Dev Community
 
-2026 Goals:
-  - 🎯 Master System Design Patterns
-  - 🚀 Contribute to Major Open Source Projects
-  - 💡 Build Products that Make a Difference
-  - 🌟 Share Knowledge through Technical Writing
+The Bat-Code:
+  - Justice through clean, maintainable code
+  - Performance is non-negotiable
+  - User experience above all
+  - Never stop evolving
+
+2026 Bat-Plans:
+  - 🎯 Master the Art of System Design
+  - 🚀 Join Forces with Major Open Source Projects
+  - 💡 Build Products That Protect and Serve
+  - 🌟 Share Knowledge from the Batcave
 ```
 
 </div>
 
 <br/>
 
-</div>
-
-<br/>
-
-<!-- Connect Section -->
 <!-- Connect Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px"> Let's Connect & Collaborate!
+## 🦇 Summon the Dark Knight
 
 <div align="center">
 
-<!-- Smooth Animated Icon -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanptOG0yN2dzcHhydGVrcG9rMHFvcWlnYXJiZnlybHowN29lNmluMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKJNFVZ4xCMriFy/giphy.gif" width="180" alt="Handshake GIF"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM3bW1sa2MxYWV2MG13NDFkaml4dzJva20zdTZqYjhtbmttczhoZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7WTF9ficFIvvRyeI/giphy.gif" width="250" alt="Bat Signal"/>
 
-### 🚀 Always open to new opportunities, collaborations, and impactful projects!
+### ⚡ Light the Bat-Signal for collaborations, projects, and code justice!
 
 <br/>
 
-<!-- Modern Contact Cards -->
-<table align="center" style="border-collapse: collapse;">
+<!-- Batman Contact Cards -->
+<table align="center">
 <tr>
 
 <td align="center" width="33%">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHFncHRxazhkbGY0am5reXk1dGdqdHFwZmxicXlmM2FoOTRhcnd3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aOften89vRbG/giphy.gif" width="70"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHUyb2N5MzE5bm83Mjc0Ymw3aWRmcWx3YThtbWU5aWlpcTV4NzN6ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KxlbRn0HuTW7gZID83/giphy.gif" width="70"/>
   <br><br>
-  <strong>📧 Email</strong>
+  <strong>Bat-Mail</strong>
   <br>
   <a href="mailto:vinayakdevmishra12@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Send%20Signal-FFD700?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=1a1a1a" />
   </a>
 </td>
 
 <td align="center" width="33%">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEyZHZkMXhlYWxvajhqaHZkZHp2NTRyOGF2ZW4zZWZuMXVuYnd1NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/HQTYdpx1yhxWpugAi2/giphy.gif" width="70"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhxcG43bWVmOHFwM2txcGtzbXQxeXJhczNuZ3VqbDgwbWY5OGhrbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/HQTYdpx1yhxWpugAi2/giphy.gif" width="70"/>
   <br><br>
-  <strong>💼 LinkedIn</strong>
+  <strong>Wayne Enterprises</strong>
   <br>
   <a href="https://linkedin.com/in/vinayakdevm">
-    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=1a1a1a" />
   </a>
 </td>
 
 <td align="center" width="33%">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm55N3lqc2xmZGl5dHJjYjNieTUxb3Bxa2MxeW85aXg0M3FjZmkzNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="70"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVsbmRqZWdvYjRscnlud2xheXF5OHlteG01M2dodmJzeHI1bXo1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="70"/>
   <br><br>
-  <strong>🧠 LeetCode</strong>
+  <strong>Riddle Me This</strong>
   <br>
   <a href="https://leetcode.com/vinayak_dev_">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFD700?style=for-the-badge&logo=leetcode&logoColor=000000&labelColor=1a1a1a" />
   </a>
 </td>
 
 </tr>
 </table>
 
-
 <!-- Animated Divider -->
 <br><br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmR0dXF1dDBxODBmZW5oeDFqajRlbGx3Y3ZvcnFoNjNjODRvNWJtMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/osm7o1nCvv7pR7AyGO/giphy.gif" width="180" alt="Handshake GIF"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM3bW1sa2MxYWV2MG13NDFkaml4dzJva20zdTZqYjhtbmttczhoZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CkSHj5RbJSygo/giphy.gif" width="25%" alt="Batman"/>
 <br/>
 
-### 💬 “The sky was never the limit. Our mind is.”  
-
+### 💀 "It's not who I am underneath, but what I do that defines me."  
+### 🦇 "I am the Dark Knight of Code. I am... The Developer Gotham Deserves."
 
 </div>
 
-
 <!-- Profile Views Counter -->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=vinayakdevm&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-
-<div>
-
-
+<br/>
+<img src="https://komarev.com/ghpvc/?username=vinayakdevm&label=Bat-Signal%20Activations&color=FFD700&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
+</div>
 
 <br/>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2EFF,50:8A2BE2,100:00E5FF&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
- 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
 </div>
