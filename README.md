@@ -36,16 +36,16 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Who Lurks in the Shadows?
+###  Who Lurks in the Shadows?
 
-- 🌃 **Full Stack Vigilante** - Protecting codebases from bugs and vulnerabilities
-- 🦇 **MERN Stack Guardian** - Master of the JavaScript realm
-- 💀 **Performance Hunter** - Eliminating slow code, one optimization at a time
-- ⚔️ **Architecture Strategist** - Building fortresses of scalable systems
-- 🎯 **Mission:** Fight bad code. Deliver justice through elegant solutions.
-- 💎 **Code of Honor:** Quality over quantity. Performance over popularity.
+-  **Full Stack Vigilante** - Protecting codebases from bugs and vulnerabilities
+-  **MERN Stack Guardian** - Master of the JavaScript realm
+-  **Performance Hunter** - Eliminating slow code, one optimization at a time
+-  **Architecture Strategist** - Building fortresses of scalable systems
+-  **Mission:** Fight bad code. Deliver justice through elegant solutions.
+-  **Code of Honor:** Quality over quantity. Performance over popularity.
 
-### 🌙 Training in the Batcave
+###  Training in the Batcave
 - Advanced Combat with System Design Patterns
 - Weaponizing Backend Performance
 - Mastering the Cloud & DevOps Arsenal
@@ -55,14 +55,14 @@
 
 <td width="50%" valign="top">
 
-### 🛡️ The Dark Knight's Arsenal
+###  The Dark Knight's Arsenal
 
-- ⚛️ **Frontend Combat:** Reactive, responsive interfaces that strike fear
-- 🗡️ **Backend Warfare:** High-performance APIs built for battle
-- 🔐 **Database Fortress:** Optimized, secure data strongholds
-- ☁️ **Cloud Command Center:** AWS, Firebase, Vercel deployments
-- 🎨 **UI/UX Gadgets:** Sleek, intuitive bat-interfaces
-- 📊 **Bat-Computer Analytics:** Real-time monitoring & insights
+-  **Frontend Combat:** Reactive, responsive interfaces that strike fear
+-  **Backend Warfare:** High-performance APIs built for battle
+-  **Database Fortress:** Optimized, secure data strongholds
+-  **Cloud Command Center:** AWS, Firebase, Vercel deployments
+-  **UI/UX Gadgets:** Sleek, intuitive bat-interfaces
+-  **Bat-Computer Analytics:** Real-time monitoring & insights
 
 
 </td>
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-### 🎯 Bat-Signal Specialties
+###  Bat-Signal Specialties
 
 <img src="https://img.shields.io/badge/React-Dark_Knight-FFD700?style=for-the-badge&logo=react&logoColor=FFD700&labelColor=000000"/>
 <img src="https://img.shields.io/badge/Node.js-Gotham_Guardian-FFD700?style=for-the-badge&logo=node.js&logoColor=FFD700&labelColor=000000"/>
@@ -89,26 +89,26 @@
 <!-- Tech Stack Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🛠️ The Utility Belt - Tech Arsenal
+##  The Utility Belt - Tech Arsenal
 
 <div align="center">
 
-### 🎨 Frontend Gadgets
+###  Frontend Gadgets
 <p>
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vite&theme=dark" />
 </p>
 
-### ⚙️ Backend Weapons
+###  Backend Weapons
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,fastapi&theme=dark" />
 </p>
 
-### 🗄️ Data Vaults
+###  Data Vaults
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
 </p>
 
-### ☁️ Bat-Computer Systems
+###  Bat-Computer Systems
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,vercel,netlify,postman,figma,vscode&theme=dark" />
 </p>
@@ -122,7 +122,7 @@
 <!-- GitHub Trophies -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 Hall of Justice - Achievements
+##  Hall of Justice - Achievements
 
 <div align="center">
 
@@ -136,11 +136,12 @@
 <br/>
 
 <!-- GitHub Stats Section -->
-## 📊 Bat-Computer Analytics
+##  Bat-Computer Analytics
 
 <div align="center">
 
 <!-- Main GitHub readme-stats card -->
+<div align="center">
 <img
   src="https://github-readme-stats.vercel.app/api?username=vinayakdevm&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=333333"
   width="48%"
@@ -167,13 +168,13 @@
   src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakdevm&theme=github-dark&hide_border=true&area=true&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF"
   width="48%"
   alt="Contribution Graph" />
-
+</div>
 </div>
 
 <!-- Current Status -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌃 Current Mission Status
+##  Current Mission Status
 
 <div align="center">
 
@@ -194,10 +195,10 @@ The Bat-Code:
   - Never stop evolving
 
 2026 Bat-Plans:
-  - 🎯 Master the Art of System Design
-  - 🚀 Join Forces with Major Open Source Projects
-  - 💡 Build Products That Protect and Serve
-  - 🌟 Share Knowledge from the Batcave
+  -  Master the Art of System Design
+  -  Join Forces with Major Open Source Projects
+  -  Build Products That Protect and Serve
+  -  Share Knowledge from the Batcave
 ```
 
 </div>
@@ -213,7 +214,7 @@ The Bat-Code:
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM3bW1sa2MxYWV2MG13NDFkaml4dzJva20zdTZqYjhtbmttczhoZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7WTF9ficFIvvRyeI/giphy.gif" width="250" alt="Bat Signal"/>
 
-### ⚡ Light the Bat-Signal for collaborations, projects, and code justice!
+### Light the Bat-Signal for collaborations, projects, and code justice!
 
 <br/>
 
@@ -261,8 +262,8 @@ The Bat-Code:
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM3bW1sa2MxYWV2MG13NDFkaml4dzJva20zdTZqYjhtbmttczhoZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CkSHj5RbJSygo/giphy.gif" width="25%" alt="Batman"/>
 <br/>
 
-### 💀 "It's not who I am underneath, but what I do that defines me."  
-### 🦇 "I am the Dark Knight of Code. I am... The Developer Gotham Deserves."
+###  "It's not who I am underneath, but what I do that defines me."  
+###  "I am the Dark Knight of Code. I am... The Developer Gotham Deserves."
 
 </div>
 
